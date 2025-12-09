@@ -8,7 +8,7 @@
 
 ## 🔰 About Me
 
-I am a Cybersecurity & Computer Science student at the University of Northampton with a strong focus on **Threat Detection Engineering, Cyber Threat Intelligence (CTI), and Secure Software Engineering**. I enjoy building practical systems—from AI-powered sensory support tools to backend financial systems—and contributing to open-source security projects like **SigmaHQ**.
+I am a Cybersecurity & Computer Science student at the University of Northampton with a strong focus on **Threat Detection Engineering, Cyber Threat Intelligence (CTI), and Secure Software Engineering**. I enjoy building practical systems from AI-powered sensory support tools to backend financial systems and contributing to open-source security projects like **SigmaHQ**.
 
 I aim to combine cutting-edge AI, security engineering, and real-world defensive practices to solve impactful problems.
 
@@ -92,7 +92,7 @@ I aim to combine cutting-edge AI, security engineering, and real-world defensive
 ---
 
 ### 🟧 Database Management System (Oracle SQL)  
-- Designed optimized ER schema  
+- Designed optimised ER schema  
 - Achieved 30% faster data retrieval  
 - Improved data integrity and processing efficiency  
 
@@ -105,7 +105,7 @@ I aim to combine cutting-edge AI, security engineering, and real-world defensive
 
 - Delivered intelligence reports using MITRE ATT&CK & D3FEND  
 - Conducted OSINT investigations and IOC enrichment  
-- Analyzed 50+ phishing domains and mapped TTPs  
+- Analysed 50+ phishing domains and mapped TTPs  
 - Performed malware IOC extraction using sandbox tools  
 - Received CSFI’s **Daria-Romana Pop Award (Best Intern)**  
 
@@ -113,9 +113,9 @@ I aim to combine cutting-edge AI, security engineering, and real-world defensive
 
 ### **Mail Sorter — Royal Mail / Angard Staffing**  
 *Sep 2023 – Present*  
-- Recorded and analyzed workflow metrics  
+- Recorded and analysed workflow metrics  
 - Improved operational efficiency through data insights  
-- Collaborated in fast-paced logistics environment  
+- Collaborated in a fast-paced logistics environment  
 
 ---
 
