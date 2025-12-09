@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Toheeb Orelope 👋</h1>
+<h1 align="center">Hi, I'm Toheeb Ajala Husain 👋</h1>
 
 <p align="center">
   <b>Cybersecurity | Cyber Threat Intelligence | Detection Engineering | Software Engineering</b>
