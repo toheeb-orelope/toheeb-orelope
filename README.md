@@ -115,7 +115,7 @@ Cloud Security Engineer, Detection Engineer, or SOC/SIEM-SOAR roles. Full projec
 ### **Cloud Security Analyst Consultant — Amdari**
 *Nov 2025 — Sep 2026*
 
-- Delivered cloud security engineering across AWS and Azure: IAM design, SIEM/SOAR, IaC governance, and security automation.
+- Delivered cloud security engineering across AWS and Azure: IAM design, SIEM/SOAR, IaC governance, and security automation.
 - Designed Microsoft Entra ID / Azure RBAC models enforcing least privilege, cutting admin onboarding to under 5 minutes and reducing permission creep.
 - Built a Microsoft Sentinel proof of concept centralising Azure Activity, Defender for Cloud, and Entra ID telemetry; developed KQL detections for privilege escalation and suspicious sign-ins.
 - Deployed Terraform-managed AWS/Azure infrastructure with OIDC-based CI/CD, S3 remote state, DynamoDB locking, KMS encryption, and production approval gates.
