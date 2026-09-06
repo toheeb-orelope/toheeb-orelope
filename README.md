@@ -1,16 +1,31 @@
 <h1 align="center">Hi, I'm Toheeb Ajala Husain 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity | Cyber Threat Intelligence | Detection Engineering | Software Engineering</b>
+  <b>Cloud Security Engineer | Threat Intelligence Analyst | Built an ML Model That Catches Phishing in Real Time | SigmaHQ Contributor | AWS · Azure · Terraform · Sentinel </b>
 </p>
 
 ---
 
 ## 🔰 About Me
 
-I am a Cybersecurity & Computer Science student at the University of Northampton with a strong focus on **Threat Detection Engineering, Cyber Threat Intelligence (CTI), and Secure Software Engineering**. I enjoy building practical systems from AI-powered sensory support tools to backend financial systems and contributing to open-source security projects like **SigmaHQ**.
-
-I aim to combine cutting-edge AI, security engineering, and real-world defensive practices to solve impactful problems.
+I build things that catch real threats, then prove they work. My dissertation project, **Anti-Phish AI**, is a browser extension that detects phishing URLs in real time using a machine learning model I trained from scratch and served through a FastAPI endpoint. I also authored a **Sigma detection rule that got merged into the global SigmaHQ repository, improving DNS exfiltration coverage for the security community**, not just for a grade.
+  
+**𝗪𝗵𝗮𝘁 𝗜'𝘃𝗲 𝗕𝘂𝗶𝗹𝘁**
+  
+- Designed Microsoft Entra ID and Azure RBAC models that cut admin onboarding to under five minutes while enforcing least privilege
+  
+- Built a Microsoft Sentinel proof of concept with KQL detections for privilege escalation and suspicious sign-ins
+  
+- Deployed Terraform-managed AWS and Azure infrastructure with OIDC-based CI/CD and production approval gates
+  
+Analysed phishing domains and mapped adversary behaviour to MITRE ATT&CK during a cyber threat intelligence internship, work that earned a Best Intern award
+  
+**𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀**
+  
+AWS Solutions Architect Associate, CompTIA A+, Google Cloud Cybersecurity Certificate, Microsoft Azure AI Fundamentals. Currently completing Microsoft SC-200 and CompTIA Security+.
+  
+**𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗙𝗼𝗿**
+Cloud Security Engineer, Detection Engineer, or SOC/SIEM-SOAR roles. Full project write-ups at toheebahusain.com. Always open to a conversation.
 
 ---
 
