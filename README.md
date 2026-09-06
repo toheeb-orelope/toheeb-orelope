@@ -115,14 +115,24 @@ Cloud Security Engineer, Detection Engineer, or SOC/SIEM-SOAR roles. Full projec
 
 ## 💼 Work Experience
 
-### **Cyber Threat Intelligence (CTI) Analyst Intern — CSFI**  
-*July 2025 – August 2025*
+### **Cloud Security Analyst Consultant — Amdari**
+*Nov 2025 — Sep 2026*
 
-- Delivered intelligence reports using MITRE ATT&CK & D3FEND  
-- Conducted OSINT investigations and IOC enrichment  
-- Analysed 50+ phishing domains and mapped TTPs  
-- Performed malware IOC extraction using sandbox tools  
-- Received CSFI’s **Daria-Romana Pop Award (Best Intern)**  
+- Delivered cloud security engineering across AWS and Azure: IAM design, SIEM/SOAR, IaC governance, and security automation.
+- Designed Microsoft Entra ID / Azure RBAC models enforcing least privilege, cutting admin onboarding to under 5 minutes and reducing permission creep.
+- Built a Microsoft Sentinel proof of concept centralising Azure Activity, Defender for Cloud, and Entra ID telemetry; developed KQL detections for privilege escalation and suspicious sign-ins.
+- Deployed Terraform-managed AWS/Azure infrastructure with OIDC-based CI/CD, S3 remote state, DynamoDB locking, KMS encryption, and production approval gates.
+- Secured Kubernetes environments via workload hardening, OPA Gatekeeper policies, Falco runtime detection, HashiCorp Vault secrets injection, and Cosign image signing.
+
+---
+
+### **Cyber Threat Intelligence (CTI) Analyst Intern — CSFI**  
+*May 2025 – Aug 2025*
+
+- Delivered actionable intelligence reports using MITRE ATT&CK, D3FEND, and the Cyber Kill Chain to strengthen organisational defence strategies.
+- Analysed 50+ phishing domains, mapped adversary TTPs, and enriched threat feeds through malware sandbox analysis.
+- Conducted OSINT-based threat hunting to identify IOCs and emerging threat trends; collaborated on RFIs and presented findings to stakeholders.
+- Awarded the **Daria-Romana Pop Award** for Best Intern, recognising standout cohort impact.
 
 ---
 
@@ -143,14 +153,14 @@ Cloud Security Engineer, Detection Engineer, or SOC/SIEM-SOAR roles. Full projec
 
 ## 🤝 Volunteering
 
-### **Cyber Security Forum Initiative (CSFI)** — Assistant Team Lead  
-*Sep 2025 – Present*  
+### **Cyber Security Forum Initiative (CSFI) — Assistant Team Lead**  
+*Sep 2025 – Feb 2026*  
 - Coordinating CTI tasks, mentoring interns  
 - Reviewing threat analysis deliverables  
 - Supporting ongoing cyber defense initiatives  
 
 ### **AI Society, University of Northampton**  
-*Sep 2023 – Present*  
+*Sep 2023 – Jul 2026*  
 - Co-led AI-focused workshops and discussions  
 - Managed a Discord community sharing AI opportunities  
 - Encouraged student participation in tech initiatives  
