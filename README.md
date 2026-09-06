@@ -13,12 +13,9 @@ I build things that catch real threats, then prove they work. My dissertation pr
 **𝗪𝗵𝗮𝘁 𝗜'𝘃𝗲 𝗕𝘂𝗶𝗹𝘁**
   
 - Designed Microsoft Entra ID and Azure RBAC models that cut admin onboarding to under five minutes while enforcing least privilege
-  
 - Built a Microsoft Sentinel proof of concept with KQL detections for privilege escalation and suspicious sign-ins
-  
 - Deployed Terraform-managed AWS and Azure infrastructure with OIDC-based CI/CD and production approval gates
-  
-Analysed phishing domains and mapped adversary behaviour to MITRE ATT&CK during a cyber threat intelligence internship, work that earned a Best Intern award
+- Analysed phishing domains and mapped adversary behaviour to MITRE ATT&CK during a cyber threat intelligence internship, work that earned a Best Intern award
   
 **𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀**
   
